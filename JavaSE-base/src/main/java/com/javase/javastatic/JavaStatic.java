@@ -12,7 +12,7 @@ public class JavaStatic {
 }
 
 class ParentClass{
-
+    
     public ParentClass(){
         System.out.println("父类构造器");
     }
