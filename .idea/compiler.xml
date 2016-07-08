@@ -23,13 +23,19 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="Java-collection" />
+      </profile>
+      <profile default="false" name="Annotation profile for JavaSE-base" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
         <module name="JavaSE-base" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Java-collection" target="1.5" />
       <module name="Java-Learning" target="1.5" />
-      <module name="JavaSE-base" target="1.5" />
+      <module name="JavaSE-base" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
