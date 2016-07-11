@@ -11,6 +11,10 @@
     <modules>
         <module>JavaSE-base</module>
         <module>Java-collection</module>
+        <module>Java-programing</module>
+        <module>Java-MultiThread</module>
+        <module>Java-Socket</module>
+        <module>Java-Web</module>
     </modules>
 
 

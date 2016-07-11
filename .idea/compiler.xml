@@ -23,6 +23,10 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="Java-collection" />
+        <module name="Java-MultiThread" />
+        <module name="Java-programing" />
+        <module name="Java-Socket" />
+        <module name="Java-Web" />
       </profile>
       <profile default="false" name="Annotation profile for JavaSE-base" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
@@ -35,6 +39,10 @@
     <bytecodeTargetLevel>
       <module name="Java-collection" target="1.5" />
       <module name="Java-Learning" target="1.5" />
+      <module name="Java-MultiThread" target="1.5" />
+      <module name="Java-programing" target="1.5" />
+      <module name="Java-Socket" target="1.5" />
+      <module name="Java-Web" target="1.5" />
       <module name="JavaSE-base" target="1.8" />
     </bytecodeTargetLevel>
   </component>
