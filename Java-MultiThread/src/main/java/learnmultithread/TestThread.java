@@ -5,6 +5,10 @@ package learnmultithread;
  */
 public class TestThread  implements  Runnable{
 
+    public static void main(String[] args){
+        Thread test = new Thread();
+    }
+
     public void run() {
 
     }
