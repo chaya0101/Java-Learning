@@ -23,23 +23,11 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="Java-collection" />
+        <module name="Java-MultiThread" />
         <module name="Java-programing" />
         <module name="Java-Socket" />
         <module name="Java-Web" />
-      </profile>
-      <profile default="false" name="Annotation profile for JavaSE-base" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="true" />
         <module name="JavaSE-base" />
-      </profile>
-      <profile default="false" name="Annotation profile for Java-MultiThread" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="true" />
-        <module name="Java-MultiThread" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
