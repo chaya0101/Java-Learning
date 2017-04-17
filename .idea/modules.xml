@@ -3,10 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java-Learning.iml" filepath="$PROJECT_DIR$/Java-Learning.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java-MultiThread/Java-MultiThread.iml" filepath="$PROJECT_DIR$/Java-MultiThread/Java-MultiThread.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-Socket/Java-Socket.iml" filepath="$PROJECT_DIR$/Java-Socket/Java-Socket.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Java-Web/Java-Web.iml" filepath="$PROJECT_DIR$/Java-Web/Java-Web.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-collection/Java-collection.iml" filepath="$PROJECT_DIR$/Java-collection/Java-collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-multiThread/Java-multiThread.iml" filepath="$PROJECT_DIR$/Java-multiThread/Java-multiThread.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-programing/Java-programing.iml" filepath="$PROJECT_DIR$/Java-programing/Java-programing.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaSE-base/JavaSE-base.iml" filepath="$PROJECT_DIR$/JavaSE-base/JavaSE-base.iml" />
     </modules>
