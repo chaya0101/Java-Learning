@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Java-collection" />
+        <module name="Java-DesignPattern" />
         <module name="Java-multiThread" />
         <module name="Java-MultiThread" />
         <module name="Java-programing" />
@@ -17,6 +18,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Java-collection" target="1.5" />
+      <module name="Java-DesignPattern" target="1.5" />
       <module name="Java-Learning" target="1.5" />
       <module name="Java-MultiThread" target="1.8" />
       <module name="Java-multiThread" target="1.8" />

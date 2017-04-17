@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java-DesignPattern/Java-DesignPattern.iml" filepath="$PROJECT_DIR$/Java-DesignPattern/Java-DesignPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-Learning.iml" filepath="$PROJECT_DIR$/Java-Learning.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-Socket/Java-Socket.iml" filepath="$PROJECT_DIR$/Java-Socket/Java-Socket.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java-collection/Java-collection.iml" filepath="$PROJECT_DIR$/Java-collection/Java-collection.iml" />
